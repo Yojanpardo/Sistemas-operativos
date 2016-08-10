@@ -25,3 +25,5 @@ driver informacion del hadware (los drivers se cargan despues (sobre) el sistema
 
 
 Estudiar la fuente
+
+partes de los discos duros moviles
