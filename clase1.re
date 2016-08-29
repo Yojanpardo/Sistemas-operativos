@@ -32,6 +32,8 @@ driver informacion del hadware (los drivers se cargan despues (sobre) el sistema
 * puertos (que cuantos pines que yo no se que)
 * slot donde va la RAM
 * socket del procesador
+* agregar la historia de los sistemas operativos
+ y su usabilidad ventajas y vainas de esas
 
 
 Estudiar la fuente
@@ -102,3 +104,17 @@ Platter = One or more aluminum, glass, or ceramic disk
 Disk controller = Printed circuitry that contains the 
 					necessary instructions for disk
 					drives. 
+
+
+
+
+* para provar fuente se hace puente del cable verde a uno negro y tan prende
+
+
+
+entre la ram y el conector se puede producir calor debido al oxido	
+
+
+del estado 0 al estado funcional deberia ser de 58 segundos
+
+
