@@ -1,5 +1,11 @@
+@import 'https://fonts.googleapis.com/css?family=Orbitron';
+
+body{
+	background: #fafafa;
+
+}
 .titulo{
 	padding: 10px;
-	font-family: 'Baloo Tamma', cursive;
+	font-family: 'Orbitron', cursive;
 	font-size: 3em;
 }
